@@ -1,0 +1,86 @@
+#EXTINF:-1,MAtv Montreal
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_AdtFoIoFT5OfXAk5sv3pNw.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,MeteoMedia
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_MHnPzNwuS_qp775V7_c3cQ.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Weather Network
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_HKYt2EQ4RZ2xHJ4MeQcr1w.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,CBC News
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_1XJpWoJkTueZ06Gdr01ckA.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,LCN
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_GayGQQiWS8OdHi4zErvzkA.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Ici RDI
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_90bKpwzeQw6vq5yOCuSRyQ.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Ici SRC
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_jL_pxvi8TZWHG_mxUOLTog.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Ici ARTV
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_j_sXVRm4Rmq_sCfCZFNZyw.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Ici Explora
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_4zMoAxqXSxSwnfmTNrh_tg.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Global Mtl
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_YjYPGKRoTNC318C6UmWtEQ.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Tele Qc
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_5zn4O_mKQVGVusMk2RhWfA.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,TV5
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_lWCPVECsTzmyhIWKhckZiA.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,TVA
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_oo8Znp_aQNyk87g3O_JCnw.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,V Tele
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_sSLvE5hiQbCCz1tTvski_w.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Investigation
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_mkqQQpJcR2efWNKHvK6Q8w.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Historia
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_q3Ntb2Q1RTy3eowBeH6_rQ.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Evasion
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_PoVWcT4OQjGHo4i7dcUGsQ.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Series Plus
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_Eb1h3BtjRGujyuLDsQJL1A.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Canal D
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_VWpgwmN8SxWi061bhD43vQ.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Canal Vie
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_fzSetUkMQSCtX-qtd0MDFw.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Z tele
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_iV42CLVvQHCvIGX2kqyGgw.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Zeste
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_bvGwrxWuTUaXz54r7DXaBQ.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,TVA Sport
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_8OCrD8wkTUSlakceh1XY5Q.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,TVA Sport 2
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0__9NAyecRSBCXN_N-wOZpAQ.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Disney Channel
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_eobGGMu8TV6-6K_WaBmI5g.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Disney La Chaine
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_yb–XlVMT–E_vNShLyxaQ.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,VRAK
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_57EM08SWQG2PX1QNHIcJGA.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,Musik Plus
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_LNHihDhiTsGpTlCxIFgsCw.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
+
+#EXTINF:-1,EuroNews
+rtmp://$OPT:rtmp-raw=rtmpe://24.200.251.10 Playpath=M0_LDJ8r8fDS46Tnwo04rqwdw.sdp swfUrl=https://illicoweb.videotron.com/swf/vplayer_v1-5_219_prd.swf pageUrl=https://illicoweb.videotron.com swfVfy=true live=true timeout=30
