@@ -1,0 +1,76 @@
+
+#EXTINF:-1 tvg-id="" tvg-name="CASA" tvg-logo="https://www.cogeco.ca/web/resources/images/residential/tv/selecteur_des_chaines/140X90/logo_casa.png" group-title="LIVE CA",CASA
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/51.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SUPER ECRAN" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/superecran1.png" group-title="LIVE CA",SUPER ECRAN
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPER ECRAN 2" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/superecran2.png" group-title="LIVE CA",SUPER ECRAN 2
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPER ECRAN 3" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/superecran3.png" group-title="LIVE CA",SUPER ECRAN 3
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/56.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPER ECRAN 4" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/superecran4.png" group-title="LIVE CA",SUPER ECRAN 4
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/460.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL D" tvg-logo="http://www.bellaliant.ca/binaries/small/content/gallery/common_en/tv/channel-logos/canald.png" group-title="LIVE CA",CANAL D
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL VIE" tvg-logo="http://assets.bellmedia.ca.s3.amazonaws.com/uploads/2014/01/canalvie-300x300.png" group-title="LIVE CA",CANAL VIE
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/551.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-10/NatGeo-Channel_Logo_16x91507544914896.png&h=FF93A4A55FCBF804B852BFB42C410120CC47DD588BE257803B3E62FD2670B9B3" group-title="DOCUMENTARY",NAT GEO
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/1571.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD ESP" tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-10/NatGeoWild-Channel_Logo_16x91507544694858.png&h=FDFFC38F205C9760B1C205915254FA72D207B94742C8CC3843DA218BA9D2A1A7" group-title="DOCUMENTARY",NAT GEO WILD ESP
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/598.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO MUNDO" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/354.png" group-title="DOCUMENTARY",NAT GEO MUNDO
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/2932.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://poster.gvp.telefonica.com/Image/CROP/PNG/w/60/h/60?imageUrl=http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/17/3171850_2CC6BC750394564B.png" group-title="DOCUMENTARY",ANIMAL PLANET
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/1570.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ESPANOL" tvg-logo="http://poster.gvp.telefonica.com/Image/CROP/PNG/w/60/h/60?imageUrl=http://media.gvp.telefonica.com/storagearea0/IMAGES/00/03/05/3050882_55393B9B95B2ED4B.png" group-title="DOCUMENTARY",DISCOVERY ESPANOL
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/113.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/719.png" group-title="DOCUMENTARY",DISCOVERY FAMILIA
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/2933.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/421.png" group-title="GENERAL",UNIVISION
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/114.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION WEST" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/421.png" group-title="GENERAL",UNIVISION WEST
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/1316.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/228.png" group-title="GENERAL",TELEMUNDO
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO WEST" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/228.png" group-title="GENERAL",TELEMUNDO WEST
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/1682.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/393.png" group-title="GENERAL",UNIMAS
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/4.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL USA" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/764.png" group-title="KIDS",DISNEY CHANNEL USA
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/425.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY LA CHAINE" tvg-logo="https://www.directv.com/images/logos/channels/dark/medium/764.png" group-title="KIDS",DISNEY LA CHAINE
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/13.ts
+#EXTINF:-1 tvg-id="" tvg-name="YOOPA" tvg-logo="https://static-illicoweb.videotron.com/illicoweb/static/webtv/images/content/providers/grid/yoopa.png" group-title="KIDS",YOOPA
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/1056.ts
+#EXTINF:-1 tvg-id="" tvg-name="VRAK" tvg-logo="https://static-illicoweb.videotron.com/illicoweb/static/webtv/images/content/providers/grid/vrak.png" group-title="KIDS",VRAK
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/516.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TVA" tvg-logo="https://static-illicoweb.videotron.com/illicoweb/static/webtv/images/content/providers/grid/tva.png" group-title="LIVE CA",TVA
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="V TELE" tvg-logo="https://static-illicoweb.videotron.com/illicoweb/static/webtv/images/content/providers/grid/vtele.png" group-title="LIVE CA",V TELE
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/515.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="https://static-illicoweb.videotron.com/illicoweb/static/webtv/images/content/providers/grid/max.png" group-title="LIVE CA",MAX
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/2895.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIQ+" tvg-logo="https://noovo.ca/dist/img/svg/logos/mp.svg" group-title="LIVE CA",MUSIQ+
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/5036.ts
+#EXTINF:-1 tvg-id="" tvg-name="METEO" tvg-logo="https://static-illicoweb.videotron.com/illicoweb/static/webtv/images/content/providers/grid/meteo.png" group-title="LIVE CA",METEO
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/517.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TV5_Qu%C3%A9bec_Canada_HD.svg/456px-TV5_Qu%C3%A9bec_Canada_HD.svg.png" group-title="LIVE CA",TV5
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Z TELE" tvg-logo="https://static-illicoweb.videotron.com/illicoweb/static/webtv/images/content/providers/grid/z.png" group-title="LIVE CA",Z TELE
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/932.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADDIK TV" tvg-logo="http://static.assets.groupetva.ca/groupetva/2016/img/logo-addiktv.png" group-title="LIVE CA",ADDIK TV
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/1070.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOI&CIE" tvg-logo="http://tv.moietcie.ca/sites/moietcie.ca/themes/moietcie/images/logo.png" group-title="LIVE CA",MOI&CIE
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/1107.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZESTE" tvg-logo="https://static-illicoweb.videotron.com/illicoweb/static/webtv/images/content/providers/grid/zeste.png" group-title="LIVE CA",ZESTE
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/1071.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEQ" tvg-logo="https://static-illicoweb.videotron.com/illicoweb/static/webtv/images/content/providers/grid/tqc.png" group-title="LIVE CA",TELEQ
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/1067.ts
+#EXTINF:-1 tvg-id="" tvg-name="EVASION" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/evasion.png" group-title="LIVE CA",EVASION
+http://158.69.52.36:25461/live/YR00AM203782/JOHN123/2874.ts
